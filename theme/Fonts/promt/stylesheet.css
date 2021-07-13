@@ -1,0 +1,142 @@
+
+
+@font-face {
+    font-family: 'promptblack';
+    src: url('prompt-black-webfont.woff2') format('woff2'),
+         url('prompt-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'promptblack_italic';
+    src: url('prompt-blackitalic-webfont.woff2') format('woff2'),
+         url('prompt-blackitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'promptbold';
+    src: url('prompt-bold-webfont.woff2') format('woff2'),
+         url('prompt-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'prompt_boldbold_italic';
+    src: url('prompt-bolditalic-webfont.woff2') format('woff2'),
+         url('prompt-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'promptextrabold';
+    src: url('prompt-extrabold-webfont.woff2') format('woff2'),
+         url('prompt-extrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'promptextrabold_italic';
+    src: url('prompt-extrabolditalic-webfont.woff2') format('woff2'),
+         url('prompt-extrabolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'promptextralight';
+    src: url('prompt-extralight-webfont.woff2') format('woff2'),
+         url('prompt-extralight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'promptextralight_italic';
+    src: url('prompt-extralightitalic-webfont.woff2') format('woff2'),
+         url('prompt-extralightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'promptitalic';
+    src: url('prompt-italic-webfont.woff2') format('woff2'),
+         url('prompt-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'promptlight';
+    src: url('prompt-light-webfont.woff2') format('woff2'),
+         url('prompt-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'promptlight_italic';
+    src: url('prompt-lightitalic-webfont.woff2') format('woff2'),
+         url('prompt-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'promptmedium';
+    src: url('prompt-medium-webfont.woff2') format('woff2'),
+         url('prompt-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
