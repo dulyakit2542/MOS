@@ -1,4 +1,4 @@
-# MOS Or TESTCENTER RMUTI
+# MOS or TESTCENTER RMUTI
 This is the last project in my university. I have been studying so I have been looking for knowledge all the time. At first I almost lost hope for studying. 
 When I came to know how to write a web site like MVC, which the university doesn't teach. I learned from one senior. Which when I tried it, I really liked it. 
 Both separating web pages, defining urls, using various add-ons, even Database, I feel that I have a very good coder who has gained knowledge from him.
